@@ -72,3 +72,20 @@ Research interests include Data, Crypto, Sustainability, Agtech, IoT, Renewable 
 **University of Michigan Engineering Research Center, Ann Arbor, MI**
 *Research Analyst June 1999 to June 2002*
  - Developed control system software in Java for reconfigurable manufacturing machines.
+
+## EDUCATION
+**New York University, New York, NY**
+*Certificate in International Affairs, July 2010 to September 2010*
+ — Focus on emerging economies, political economy, and sustainable development
+
+**Institute of Industrial Technology and Automation, Milan, Italy**
+*Masters in Industrial Research, June 2002 to December 2003*
+ — Recipient of an Italian government fellowship to study and research
+ — Thesis: “Software and Methods for Life Cycle Cost Accounting of Reconfigurable Manufacturing Machines”
+
+**University of Michigan College of Engineering, Ann Arbor, MI**
+*Bachelor of Engineering, September 1998 to April 2002*
+ — Major: Electrical Engineering and Computer Science
+
+## KEYWORD SOUP
+AWS, GCP, Python, Ruby, Chef, Puppet, Ansible, CloudFormation, Terraform, Docker, Configuration Management, CI/CD, TDD, TDI, Nagios, DataDog, New Relic, Splunk, Prometheus
