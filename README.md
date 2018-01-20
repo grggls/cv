@@ -1,9 +1,9 @@
 # GREGORY DAMIANI
 
-        gregory.damiani@gmail.com
-        https://github.com/grggls/
-        https://uk.linkedin.com/in/gregorydamiani
-        https://twitter.com/grggls
+ - gregory.damiani@gmail.com
+ - https://github.com/grggls/
+ - https://uk.linkedin.com/in/gregorydamiani
+ - https://twitter.com/grggls
 
 *I require a visa/sponsorship to work outside the US*
 
