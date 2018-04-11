@@ -19,12 +19,16 @@ Research interests include Data, Crypto, Sustainability, Agtech, IoT, Renewable 
  - Certified Chef Developer
 
 ## EMPLOYMENT HISTORY
+### Yara Digital Labs, Berlin
+*April 2017 to present*
+ - working on cloud target operating models and deploy velocity
+
 ### Aluna Social, London
 *October 2017 to present*
  - Working part-time with an early stage crypto startup to secure and stabilise infrastructure, build and maintain a Kube cluster, deploy microservices there, develop and increase the velocity of their development pipeline
 
 ### Cloudreach Europe Ltd., London
-*Cloud Systems Developer Lead - July 2017 to present*
+*Cloud Systems Developer Lead - July 2017 to February 2017*
  - Leading a team of developers to deliver AWS infrastructure and automation for data ingestion and financial analysis
  - Providing excellent customer support and training for our clients around the Cloud Data Center we have implemented
  - Mentoring several juniors and coaching them towards AWS certification - Developing system services in Python
