@@ -31,7 +31,8 @@ Research interests include Data, Crypto, Sustainability, Agtech, IoT, Renewable 
 *Cloud Systems Developer Lead - July 2017 to February 2017*
  - Leading a team of developers to deliver AWS infrastructure and automation for data ingestion and financial analysis
  - Providing excellent customer support and training for our clients around the Cloud Data Center we have implemented
- - Mentoring several juniors and coaching them towards AWS certification - Developing system services in Python
+ - Mentoring several juniors and coaching them towards AWS certification
+ - Developing system services in Python
 
 ### BuzzFeed, Inc., New York and London
 *Senior Site Reliability Engineer - January 2014 to July 2017*
